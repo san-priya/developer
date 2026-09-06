@@ -1,0 +1,2 @@
+this is the project.txt file added
+git and githup course
